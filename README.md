@@ -12,10 +12,6 @@ I'm currently the Electronics Control Team Lead at [C ONE Studio](https://github
 - ​​Development Areas​​: Embedded systems, Web applications, GUI applications
 - Additional Interests​​: Music production, game art design. Come take a look at my [BiliBili homepage](https://space.bilibili.com/27680501).
 
-## Plurality System
-behind this account is actually a Plurality system named **SilkenKite**. 
-If you are curious about our plurality journey, how we work together, or our daily life, you are more than welcome to visit our blog: **[blog.silkenkite.ink](https://blog.silkenkite.ink)**
-
 ## Contact
 
 - Email: moonfeather120@outlook.com
